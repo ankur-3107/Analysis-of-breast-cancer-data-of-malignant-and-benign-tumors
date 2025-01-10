@@ -65,7 +65,7 @@ The dataset used for this project consists of:
 - Identify the top discriminative features for classification.
 
 ### 3. Normalization
-- Apply Min-Max scaling for feature normalization.
+- Apply Min-Max scaling or Z-score transformation for feature normalization.
 
 ### 4. Visualization
 - **Heatmaps** to visualize normalized data.
